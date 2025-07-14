@@ -1,6 +1,6 @@
 # 🚦 TrafficSignNet: Classifying German Traffic Signs with LeNet in Keras
 
-![Traffic Signs](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/German_road_signs.svg/800px-German_road_signs.svg.png)
+![Traffic Signs](./images/traffic_signs.pngg)
 
 > 🚗 **TrafficSignNet** is a deep learning project to classify German traffic signs into 43 distinct categories using a Convolutional Neural Network based on the classic LeNet architecture, implemented in Keras.  
 > It uses the [German Traffic Sign Recognition Benchmark (GTSRB)](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) dataset.
@@ -64,5 +64,5 @@ The model is a modified **LeNet-5** CNN designed for multi-class traffic sign cl
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/traffic-sign-net.git
-cd traffic-sign-net
+git clone https://github.com/keroti/TrafficSignNet.git
+cd TrafficSignNet
